@@ -1,4 +1,4 @@
-# liq_swi
+# Liquid Swipe
 
 A new Flutter project.
 
